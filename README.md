@@ -35,6 +35,13 @@ The project descriptions summarize the shared project scope; they do not imply s
 
 ## Recognition
 
-**Best Poster Award** — International Conference on Climate Justice 2026, Bengaluru, India  
+**Best Poster Award** — International Conference on Climate Justice 2026, Bengaluru, India - Jul. 2026
 Project: *Post-Disaster Resilience Polarization Analysis*
+
+**Excellence Award** - 2026 Industry-Academia Collaboration Project Competition, KNU SW Education Center - Jun. 2026
+Project: *A Case Study on the Robustness of 3D Gaussian Splatting in Snowy Scenes and the Effects of 2D Pre-processing Across Pose Estimation Methods*
+
+**Excellence Award** - Undergraduate Capstone Design Competition, KICS Fall Conference - Nov. 2025
+Project: *Transformer-Based Reinforcement Learning for 3D Packing*
+
 
