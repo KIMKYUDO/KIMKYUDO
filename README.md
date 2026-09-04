@@ -38,7 +38,3 @@ The project descriptions summarize the shared project scope; they do not imply s
 **Best Poster Award** — International Conference on Climate Justice 2026, Bengaluru, India  
 Project: *Post-Disaster Resilience Polarization Analysis*
 
-## Additional learning projects
-
-- [Gaussian Mixture Models and EM for Anomaly Detection](https://github.com/KIMKYUDO/GMM_Animaly_Detection) — probabilistic modeling and anomaly detection.
-- [PPO in a Synthetic POMDP Environment](https://github.com/KIMKYUDO/MEDICAL-TREATMENT-RL) — reinforcement-learning practice; not a clinical system.
